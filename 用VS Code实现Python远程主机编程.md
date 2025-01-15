@@ -6,7 +6,7 @@
 
 (2) 点击左下角的远程连接图标，选择Connect to Host-Add New SSH Host开始配置SSH连接
 
-![image-20250115101932989](E:\typora-图片\image-20250115101932989.png)
+![image-20250115104037052](E:\桌面\Programming Foundations of DL\images\image-20250115104037052.png)
 
 (3) SSH连接命令的格式：
 
