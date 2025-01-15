@@ -6,7 +6,7 @@
 
 (2) 点击左下角的远程连接图标，选择Connect to Host-Add New SSH Host开始配置SSH连接
 
-![image-20250115104354113](.\images\image-20250115104354113.png)
+[![image-20250115104354113](.\images\image-20250115104354113.png)](https://github.com/Goldie-white/DL-Programming/blob/main/images/image-20250115104354113.png)
 
 (3) SSH连接命令的格式：
 
